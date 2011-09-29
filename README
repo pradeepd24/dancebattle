@@ -1,0 +1,11 @@
+To compile and get the executable:
+
+gcc -o dancebattle dancebattle.c
+
+To run:
+
+./dancebattle input_filename
+
+
+input_filename should be the like the one described in
+www.facebook.com/careers/puzzles.php?puzzle_id=12
